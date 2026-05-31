@@ -130,10 +130,8 @@ Optional environment variables:
 | API | FastAPI + Uvicorn |
 | UI | Streamlit |
 
-## License
-
-MIT (or specify your license)
-
 ## Author
 
-Your name / GitHub profile
+Navaneethan K
+navaneethan1810@gmail.com
++91 9751652396
