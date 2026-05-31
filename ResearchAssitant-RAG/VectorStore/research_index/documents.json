@@ -1,0 +1,50 @@
+[
+  {
+    "text": "13 Oct 2025 \n   \n  \nNavaneethan \n2/84 South Street \nChinnakovilankulam Tenkasi  \nTamil Nadu 627953 \n \nDear Navaneethan, \n \nThank you for exploring career opportunities with EGC Global Services . You have successfully completed \nour initial selection process, and we are pleased to offer you the Internship with us. Your initial posting will \nbe at our Kochi Office – 2B-1, Thapasya, Infopark, Kakkanad. Your compensation details are as follows: \n \nThis internship will commence on 22nd October 2025 and is expected to continue until April 22nd, 2026. You \nwill be reporting to Nibi Thomas, Client Service and Compliance. \n \nYour internship compensation would be Rs. 10,000 Per Month for the internship duration of 6 Months.  \n \nAs an intern, you will be expected to maintain confidentiality regarding all company information and adhere \nto the company’s code of conduct and policies. \n \nYou are requested to join us at the latest by 22nd October 2025. In case you do not report   by this date, this \noffer letter shall stand withdrawn.  \n \nPlease confirm your acceptance of the above terms and inform your joining date in our organization, by 16 \nOct 2025. \n \nWe are excited about the prospect of you joining our team and contributing to EGC Global Services. We \nbelieve this experience will be mutually beneficial, offering you valuable insight and exposure to industry \npractices. \n \n \n \nBest regards, \n \n \n \n \nAsha Nair \nManager – Human Resources",
+    "metadata": {
+      "source": "D:\\Work\\Python\\Agents\\ResearchAssitant-RAG\\Data\\Internship Offer_Navaneethan_Associate I_Client Services & Compliances.pdf",
+      "filename": "Internship Offer_Navaneethan_Associate I_Client Services & Compliances.pdf",
+      "extension": "pdf",
+      "mime_type": "application/pdf",
+      "loaded_at": "2026-05-31T09:46:31.208922+00:00",
+      "page": 1,
+      "page_count": 1,
+      "format": "pdf",
+      "chunk_index": 0,
+      "chunk_count": 1,
+      "chunk_start": 172,
+      "chunk_end": 1621
+    }
+  },
+  {
+    "text": "Navaneethan K \nnavaneethan1810@gmail.com | 9751652396 | Kochi | LinkedIn| Github \n \nExecutive Summary  \n    \nData Analyst with experience in SQL, Python, and Power BI, and a strong foundation in data analysis, data \nengineering, and machine learning. Skilled in building data pipelines, dashboards, and predictive models to process \nand analyze large datasets, improve data quality, and generate actionable insights. Hands -on experience through \ninternship and project work, contributing to solving problems, data-driven decision-making, and business impact. \n \nTechnical Skills \n   \n● Programming Languages: Python (Scikit-learn, Numpy, Pandas), SQL \n● Machine Learning: Feature Engineering, Model Evaluation, Supervised Learning(Linear Regression, Logistic \nRegression, Random Forest), Unsupervised Learning(K-Means, Hierarchical Clustering) \n● Tools: Power BI (DAX, Power Query, Power BI Service), MS Excel, Jupyter Notebook, Git, Docker \n● Databases: MySQL, SQLite, PostgreSQL \n \nProfessional Experience \n  \nEGC Global Services                    October 2025 – April 2026 \n Associate Analyst Intern \n● Maintained and managed 1M+ product records, ensuring data accuracy, consistency, and proper \norganization of product information. \n● Performed product research and data analysis, contributed to machine learning model development for \nclassification, and supported dashboard creation and data pipeline maintenance. \n● Identified data issues and improved data quality, leading to a 20% increase in working efficiency while \nconsistently meeting project deadlines. \n● Collaborated with a team of 6 and cross-functional teams, supporting project execution and sharing AI-\nrelated knowledge to improve team productivity. \nEducation \n \nB.Sc Data Science         August 2022 – October 2025 \nCGPA: 7.42/10 \nPeriyar Maniammai University, Thanjavur \n \nProjects \n \nSector-Wise Stock Market Prediction - Python, Scikit-learn, Numpy, Pandas, Matplotlib \n● Built and deployed a stock prediction web application by cleaning data and training multiple ML models, \nachieving around 80% accuracy for real-time predictions. \nE-commerce Data Pipeline - SQLite, Python, Pandas \n● Built a modular ETL pipeline using Python and SQL, implementing medallion architecture for data cleaning, \nvalidation, aggregation, and loading into a SQLite warehouse for analytics. \nB2B Sales Analysis - SQL, Power BI, DAX, Power Query \n● Analyzed 12K B2B sales records in Power BI, cleaned and transformed data using Power Query and built table \nrelationships through data modeling; identified a 25.53% conversion rate and key enterprise revenue drivers.",
+    "metadata": {
+      "source": "D:\\Work\\Python\\Agents\\ResearchAssitant-RAG\\Data\\Navaneethan.pdf",
+      "filename": "Navaneethan.pdf",
+      "extension": "pdf",
+      "mime_type": "application/pdf",
+      "loaded_at": "2026-05-31T09:46:31.367065+00:00",
+      "page": 1,
+      "page_count": 1,
+      "format": "pdf",
+      "chunk_index": 0,
+      "chunk_count": 1,
+      "chunk_start": 0,
+      "chunk_end": 2623
+    }
+  },
+  {
+    "text": "# Research Assistant Sample Document\n\n## Overview\nThis is a sample research document for testing the RAG pipeline.\n\n## Key Findings\n- Retrieval-Augmented Generation improves answer accuracy.\n- FAISS is used for vector similarity search.\n- Ollama provides local LLM responses without cloud APIs.\n\n## Conclusion\nThe Research Assistant can answer questions based on uploaded documents.",
+    "metadata": {
+      "source": "D:\\Work\\Python\\Agents\\ResearchAssitant-RAG\\Data\\sample_research.md",
+      "filename": "sample_research.md",
+      "extension": "md",
+      "mime_type": null,
+      "loaded_at": "2026-05-31T09:46:31.376755+00:00",
+      "chunk_index": 0,
+      "chunk_count": 1,
+      "chunk_start": 0,
+      "chunk_end": 382
+    }
+  }
+]

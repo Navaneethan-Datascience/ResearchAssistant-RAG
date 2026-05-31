@@ -1,0 +1,5 @@
+{
+  "dimension": 384,
+  "metric": "cosine",
+  "count": 3
+}
