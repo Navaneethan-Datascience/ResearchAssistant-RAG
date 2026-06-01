@@ -47,8 +47,8 @@ from VectorStore.faiss_store import FaissVectorStore  # noqa: E402
 
 DATA_DIR = Path(os.getenv("RAG_DATA_DIR", ROOT / "Data"))
 INDEX_DIR = Path(os.getenv("RAG_INDEX_DIR", ROOT / "VectorStore" / "research_index"))
-OLLAMA_MODEL = os.getenv("RAG_OLLAMA_MODEL", "enter local model name")
-OLLAMA_BASE_URL = os.getenv("RAG_OLLAMA_BASE_URL", "enter ollama url")
+OLLAMA_MODEL = os.getenv("RAG_OLLAMA_MODEL", "qwen2.5-coder:latest")
+OLLAMA_BASE_URL = os.getenv("RAG_OLLAMA_BASE_URL", "http://localhost:11434")
 EMBEDDER_BACKEND = os.getenv("RAG_EMBEDDER_BACKEND", "sentence-transformers")
 EMBEDDER_MODEL = os.getenv(
     "RAG_EMBEDDER_MODEL", "sentence-transformers/all-MiniLM-L6-v2"
