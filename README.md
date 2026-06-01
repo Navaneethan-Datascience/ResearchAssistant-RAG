@@ -58,7 +58,7 @@ ResearchAssitant-RAG/
 - A pulled Ollama model (default: `qwen2.5-coder:latest`)
 
 ```bash
-ollama pull qwen2.5-coder:latest
+ollama pull qwen2.5-coder:latest (or) Any other local models
 ollama serve
 ```
 
